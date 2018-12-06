@@ -26,15 +26,4 @@ public class GroundChecker : MonoBehaviour
             isGrounded = 0;
         }
     }
-
-
-
-
-
-    //kollar om inget kolliderar med en trigger
-    //private void OnTriggerExit2D(Collider2D collision) 
-    //{
-    //    //sätter isGrounded till false
-    //    isGrounded = false; 
-    //}
 }
